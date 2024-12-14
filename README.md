@@ -1,6 +1,8 @@
 # What is this?
 
-This repo contains a file spotifyApiClient that returns a class SpotifyClient
+This repo contains a file spotifyApiClient that returns a class SpotifyClient.
+
+This is an ongoing project and more methods will be added in the future.
 
 ## Get started
 
